@@ -28,7 +28,7 @@ Les deux types peuvent :
 
 **Propriété externe**
 
-- La création d'un compte d'un compte est gratuite.
+- La création d'un compte est gratuite.
 - Vous pouvez initier des transactions.
 - Les seules transactions possibles entre les comptes externes sont les transferts d'ETH.
 
