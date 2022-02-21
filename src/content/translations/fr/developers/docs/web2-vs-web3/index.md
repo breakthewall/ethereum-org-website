@@ -30,7 +30,7 @@ Cela ne veut pas dire que tous les services doivent être transformés en DApps.
 
 Le Web3 a actuellement quelques limitations :
 
-- Évolutivité : Les transactions sont plus lentes sur le Web3 carelles sont décentralisées. Les changements d'état, comme un paiement, doivent être traités par un mineur et propagés sur le réseau.
+- Évolutivité : Les transactions sont plus lentes sur le Web3 car elles sont décentralisées. Les changements d'état, comme un paiement, doivent être traités par un mineur et propagés sur le réseau.
 - UX : Interagir avec les applications Web3 peut nécessiter des étapes, des logiciels et des connaissances supplémentaires. Cela peut constituer un obstacle à son adoption.
 - Coût : La plupart des DApps réussies publient de très petites portions de leur code sur la blockchain car c'est coûteux.
 
